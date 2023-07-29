@@ -36,8 +36,8 @@
 ### Extra
 
 -  [Patrones de JavaScript](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
--  [Manejo de errores](./02-JavaScriptAvanzado-I/errores.md)
--  [JS orientado a Objetos](./02-JavaScriptAvanzado-I/OOP.md)
+-  [Manejo de errores](./02-JavaScriptAvanzado-I/errores)
+-  [JS orientado a Objetos](./02-JavaScriptAvanzado-I/OOP)
 
 ### Links copados
 
